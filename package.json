@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "modB": "git://github.com/adamar/modB#master",
+    "modB": "git://github.com/adamar/modB#master"
   },
 
   "author": "",
